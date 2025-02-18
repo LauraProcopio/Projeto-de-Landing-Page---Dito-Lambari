@@ -23,10 +23,6 @@ O projeto visa aplicar conceitos de desenvolvimento front-end modernos, utilizan
 
 Caso queira ver como ficou a página publicada, acesse: https://projeto-de-landing-page-dito-lambari.vercel.app/ 
 
-## 🛠️ Como Executar o Projeto  
-
-Para visualizar e testar a landing page localmente, siga os passos abaixo:  
-
 1. **Clone este repositório:**  
    ```bash
    git clone https://github.com/seu-usuario/dito-lambari.git
