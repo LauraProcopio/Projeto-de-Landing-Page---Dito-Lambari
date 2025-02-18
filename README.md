@@ -21,7 +21,7 @@ O projeto visa aplicar conceitos de desenvolvimento front-end modernos, utilizan
 
 ## 📷 Preview  
 
-*(Adicione aqui uma imagem ou GIF demonstrando o projeto em funcionamento.)*  
+Caso queira ver como ficou a página publicada, acesse: https://projeto-de-landing-page-dito-lambari.vercel.app/ 
 
 ## 🛠️ Como Executar o Projeto  
 
